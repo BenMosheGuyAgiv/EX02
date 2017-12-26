@@ -1,0 +1,14 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 1
+First Student Details.: 203507926 - Guy Agiv
+Second Student Details: 302823927- Ben Moshe
+Delivery Date.........: 23 - November- 2017
+Delivered In Delay....: Yes(2 day)
+Delay Reason..........: Had some problems with the login process via the course's appID.
+Visual Studio Version.: 2015
+Comments..............: Dear inspector, the features doesnt work well using the Course AppID. If you want to see the features's result please use our AppID.
+						The zip file has been changed to zip extention as instructed by Guy, and it is protected by the password: Aa123123
+						The zip contains dll for displaying the control buttons with more elegant style(Inheriting from Button)
+						The API weather is limited to 5 days from the day the request has been made(due to licensing from the API provider), 
+						so the constant for the method has been defined accordingly.
+========================End Exercise Checking Report========================
